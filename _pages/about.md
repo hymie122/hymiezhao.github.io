@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a second year master's student from [Peking University](https://www.pku.edu.cn/). My research interest includes recommended system, distributed machine learning.
 
-[Email](penghao.zhao@stu.pku.edu.cn) / [Github](https://github.com/hymie122)
+[Gitee](https://gitee.com/HdestinyH) / [Github](https://github.com/hymie122)
