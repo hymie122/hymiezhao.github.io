@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Penghao Zhao(赵鹏昊)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master's student from [Peking University](https://www.pku.edu.cn/). My research interest includes recommended system, distributed machine learning.
+I'm a second year master's student from [Peking University](https://www.pku.edu.cn/),under the supervision of Professor [Bin Cui](https://cuibinpku.github.io) My research interest includes recommended system, distributed machine learning.
 
