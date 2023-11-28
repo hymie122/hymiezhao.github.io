@@ -12,8 +12,8 @@ I'm a second year master's student from [Peking University](https://www.pku.edu.
 
 ## Publications
 ---
-### 2024  
-1.Experimental Analysis of Large-scale Learnable Vector Storage Compression.  
+### 2024
+Experimental Analysis of Large-scale Learnable Vector Storage Compression.  
 [paper](https://arxiv.org/abs/2311.15578)  
 Hailin Zhang,**Pengaho Zhao**,Xupeng Miao,Yingxia Shao,Zirui Liu,Tong Yang,Bin Cui.  
 International Conference on Very Large Data Bases.  
