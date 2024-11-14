@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master's student from [Peking University](https://www.pku.edu.cn/),under the supervision of Professor [Bin Cui](https://cuibinpku.github.io) My research interest includes recommended system, distributed machine learning, information retrieval.
+I'm a third year master's student from [Peking University](https://www.pku.edu.cn/),under the supervision of Professor [Bin Cui](https://cuibinpku.github.io) My research interest includes recommended system, distributed machine learning, information retrieval.
 
 ## Publications
 ---
