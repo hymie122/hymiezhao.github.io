@@ -13,6 +13,14 @@ I'm a second year master's student from [Peking University](https://www.pku.edu.
 ## Publications
 ---
 ### 2024
+- **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.**[paper](https://arxiv.org/abs/2405.14578)
+  
+  Shuaipeng Li*, **Penghao Zhao***, Hailin Zhang, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.
+  
+  Annual Conference on Neural Information Processing Systems.
+  
+  **NeurIPS 2024, CCF-A.**
+  
 - **Retrieval-Augmented Generation for AI-Generated Content: A Survey.**
   [paper](https://arxiv.org/abs/2402.19473)
   
